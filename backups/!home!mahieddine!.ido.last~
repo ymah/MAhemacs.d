@@ -1,0 +1,216 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/smews/" . "apps/")
+ ("/" . "home/")
+ ("/home/mahieddine/Documents/perso/KM59/v3/MyPDO/" . "easyCRUD/")
+ ("/home/mahieddine/Documents/perso/KM59/v3/version3/" . "administration/")
+ ("/home/mahieddine/Documents/perso/KM59/v3/" . "MyPDO/")
+ ("/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/smews/apps/" . "ledmatrix/")
+ ("/home/mahieddine/Documents/perso/" . "hack/")
+ ("/home/mahieddine/.oh-my-zsh/" . "lib/")
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP5-2/" . "tpfs/")
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP5-2/tpfs/" . "skel/")
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP4/" . "ancien/")
+ ("/home/mahieddine/Documents/perso/LINUX/linux/include/" . "asm/")
+ ("/home/mahieddine/Documents/perso/LINUX/linux/" . "mm/")
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP5/" . "tpfs/")
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/truc/ASE/" . "tp7/")
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/truc/" . "ASE/")
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/libs/ar/old/" . "include/")
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/libs/ar/" . "old/")
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/libs/" . "ar/")
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/" . "TP5-3/")
+ ("/home/mahieddine/Documents/cours/M1S1/ACT/" . "TP4/")
+ ("/home/mahieddine/Documents/cours/M1S1/" . "ACT/")
+ ("/home/mahieddine/Documents/cours/" . "M1S1/")
+ ("/home/mahieddine/Documents/" . "cours/")
+ ("/home/mahieddine/.emacs.d/" . "elpa/")
+ ("/home/mahieddine/" . "Documents/")
+ ("/home/" . "mahieddine/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mahieddine/.emacs.d/"
+ "/home/mahieddine/Documents/cours/M1S1/ACT/TP4/"
+ "/home/mahieddine/"
+ "/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/smews/apps/ledmatrix/"
+ "/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/smews/apps/helloWorld2/"
+ "/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/smews/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/TP5-4/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/TP5-3/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/TP5-2/tpfs/"
+ "/home/mahieddine/Documents/perso/KM59/v3/MyPDO/easyCRUD/"
+ "/home/mahieddine/Documents/perso/KM59/v3/"
+ "/home/mahieddine/Documents/perso/KM59/v3/MyPDO/"
+ "/home/mahieddine/Documents/perso/KM59/v3/version3/administration/"
+ "/home/mahieddine/Documents/cours/M1S1/ACT/TP3/"
+ "/home/mahieddine/Documents/cours/M1S1/ACT/TP2/"
+ "/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/truc/ASE/tp7/"
+ "/home/mahieddine/.oh-my-zsh/lib/"
+ "/home/mahieddine/Documents/cours/M1S1/ACT/TP3/v1/TP3/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/TP5-2/tpfs/skel/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/TP3/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/TP5/tpfs/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/truc/ASE/tp5/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/TP4/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/TP4/ancien/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/truc/ASE/tp4 - context final/"
+ "/home/mahieddine/Documents/perso/LINUX/linux/mm/"
+ "/home/mahieddine/Documents/perso/LINUX/linux/kernel/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/TP5/"
+ "/home/mahieddine/Documents/cours/M1S1/ASE/libs/include/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "bm.c"
+ ".emacs"
+ "scroller.c"
+ "scroller.h"
+ "hello2.c"
+ "led_color.c"
+ "led_get_text.c"
+ "led_text.c"
+ "led_common.c"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mahieddine/.emacs.d/" (21614 24319 7239 90000) "el-get/" "modules/" "custom.el" "CONTRIBUTING.org" "./" "elpa/" "Makefile" "auto-save-list/" "LICENSE.txt" "ome.org" ".git/" ".recentf" "ome-publish.org" "init.el" "core/" "CHANGELOG.org" ".saved-places" ".gitignore" "../" "ome.el" "README.org" ".recentf~" "ome-el-get-recipes/")
+
+ ("/home/mahieddine/" (21614 24320 343899 821000) "Public/" "Vidéos/" ".aqemu/" "lastEmacs/" ".Skype/" "anglais.odt" ".histfile" ".gitconfig" ".zsh-update" "Bureau/" ".config/" ".composer/" ".metadata/" ".gnupg/" ".xsession-errors" ".zsh_history" ".bash_history" ".recently-used" ".kde4Old/" "./" ".gtkrc-2.0-kde4" ".ssh/" "workspace/" "nico/" ".dbus/" ".gpg-agent-info" "eclipse-web/" ".xscreensaver" ".zcompdump-Mahrch-5.0.7" ".gnome/" ".mozilla/" ".xinitrc" ".ido.last" "MBED.HTM" "oh-my-emacs/" ".ICEauthority" "todelete/" ".wireshark/" "Musique/" ".kde4Old2/" ".Xauthority" ".zshrc~" "Téléchargements/" "vanmachin/" ".zshrc.pre-oh-my-zsh" "VirtualBox VMs/" ".xbindkeys_config/" ".cache/" ".oh-my-zsh/" "Images/" ".zcompdump" ".zdirs" ".bash_logout" ".~lock.anglais.odt#" "smews.elf" ".ecb-tip-of-day.el" ".python_history" ".ido.last~" ".tmp/" ".kde4/" ".gtkrc-2.0" ".vim/" ".macromedia/" ".fonts.conf" ".nvidia-settings-rc" ".android/" ".themes/" ".erc/" ".IdeaIC14/" "../" ".nv/" ".thumbnails/" ".esd_auth" ".bashrc~" ".local/" ".pki/" ".dmrc" ".viminfo" ".icons/" ".java/" "Modèles/" "eclipse/" ".bash_profile" ".adobe/" ".emacs.d/" ".eclipse/" ".zshrc" ".smex-items" "vpn/" ".eduroam/" ".ddd/" ".bashrc" "Documents/" ".thunderbird/" ".skypecallrecorder.lock")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ACT/TP4/" (21613 64882 1332 49000) "donnees.zip" "bm.c" "rendu.odt" "./" "bm" "Makefile" "bm.h" "donnees/" "bm.o" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/smews/apps/ledmatrix/" (21612 40677 488899 33000) "led_color.c" "index.html" "led_get_text.c" "./" "scroller.c" "led_common.c" "led_common.h" "led_get_color.c" "scroller.h" "assets/" "../" "jquery.min.js" "led_text.c")
+
+ ("/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/smews/" (21612 41878 92394 806000) "TODO" "license" "tools/" "rflpc.map" "charger.sh~" "SConscript" "./" "panManager/" "changelogs.txt" "doc/" "targets/" "SConstruct" ".git/" "panManagerWindows/" "bin/" "apps/" "core/" ".sconsign.dblite" ".gitignore" "README" "../" "misc/" "gen/" "charger.sh")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP5-4/" (21611 6466 424780 39000) "mbr.c" "descripteur.c" "mkhd" "vdiskB.bin" "./" "lib/" "vm.c" "mkhd.c" "mbr.h" "createDisk.o" "mbr.o" "Makefile" "inode.h" "createDisk.c~" "TP-systeme-fichier_Yaker-Mahieddine.tar.gz" "vdiskA.bin" "descripteur.h" "inode.c" "etc/" "README" "include/" "createDisk.c" "../" "hardware.ini" "vm" "drive.c" "mkhd.o" "vm.o" "drive.o" "drive.h" "createDisk")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP5-3/" (21610 36433 971838 313000) "mbr.c" "descripteur.c" "./" "lib/" "vm.c" "mkhd.c" "mbr.h" "Makefile" ".git/" "TP-systeme-fichier_Yaker-Mahieddine.tar.gz" "descripteur.h" "etc/" "README" "include/" "../" "hardware.ini" "drive.c" "drive.h")
+
+ ("/home/mahieddine/lastEmacs/" (21608 40831 726914 686000) "./" "../")
+
+ ("/home/mahieddine/Documents/perso/KM59/v3/" (21610 15802 716467 390000) "Contenu.class.php" "connexion.php" "./" "test.php" "version3/" "MyPDO/" "info.php" "test.php~" "../")
+
+ ("/home/mahieddine/todelete/" (21610 33556 512052 900000) "Caledonia/" "Caledonia-1.9.tar.gz" "./" "3/" "../" "vm/" "ASE_TP3-master/" "eduroam-linux-UL1.sh")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP6/" (21541 16769 881358 741000) "./" "../")
+
+ ("/home/mahieddine/Documents/perso/KM59/v3/MyPDO/easyCRUD/" (21610 14756 77816 623000) "./" "easyCRUD.class.php" "index.php" "../" "Person.class.php")
+
+ ("/home/mahieddine/Documents/perso/KM59/v3/MyPDO/" (21610 14868 432998 242000) "Log.class.php" "composer.json" "LICENSE" "./" "easyCRUD/" ".git/" "settings.ini.php" "SQL dump/" "Db.class.php" "README.md" "index.php" "../")
+
+ ("/home/mahieddine/Documents/perso/KM59/v3/version3/administration/" (21610 10818 688533 554000) "presentation_krav.php" "news_function.php" "technical.php" "galerie_autre.php" "links_function.php" "supprimer.php" "template/" "newsletter.php" "deconnexion.php" "presentation_ecole.php" "connexion.php" "toolbar.gif" "welcome.php" "image_template/" "template.css" "paturel.jpg" "fondateur.php" "style.css" "./" "connexion_id.php" "modifier.php" "1460073_10201722267530179_1727937024_n.jpg" "footer.php" "instructors.php" "media.php" "SAM_0451.JPG" "info_ecole.php" "ajouter.php" "galerie_video.php" "informations.php" "school.php" "contact.php" "info_stage.php" "kravmaga.php" "links.php" "info_presse.php" "stage paturel.jpg" "galerie_photo.php" "editeur/" "inscription.php" "kravlesquin1.jpg" "info_function.php" "login.inc.php~" "login.inc.php" "logo-facebook-45.jpg" "index.php" "ecrire.php" "navigation_toolbar_bis.php" "../" "header.php" "welcome_functions.php" "enseignant.php" "assistant.php" "projet.php" "telecharger_image.php" "navigation_toolbar.php" "maj.php")
+
+ ("/home/mahieddine/Documents/perso/KM59/v3/version3/" (21610 10990 164271 257000) "index.php~" "presentation_krav.php" "script/" "photos.php" "technical.php" "#fondateur.php#" "galerie_autre.php" "template/" "newsletter.php" "programme.php" "presentation_ecole.php" "partenariat/" "welcome.php" "image_template/" "section_lesquin.php" "fondateur.php" "style.css" "./" "info_grade.php" "path.php" "last_news.php" "test2.php" "footer.php" "test.php" "article.php" "header.php~" "instructors.php" "navigation.php" "fluxRSS.xml" "style_css/" "media.php" "info_ecole.php" "fichiers/" "representants.php" "principe.php" "info_stage.php~" "Makefile" "galerie_video.php" "informations.php" "navigation_toolbar.php~" "school.php" "contact.php" "info_stage.php" "kravmaga.php" "links.php" "info_presse.php" "article.php~" "cadre_legal.php" "galerie_photo.php" "inscription.php" "video.php" "logo-facebook-45.jpg" "index.php" "image_diplome/" "../" "header.php" "fileupload-ui.css" "enseignant.php" "assistant.php" "accounts.xml" "info_stage_autre.php" "administration/" "news_image/" "navigation_toolbar.php" "index1.html" "welcome.php~")
+
+ ("/home/mahieddine/Documents/perso/KM59/" (21610 2403 537860 372000) "version4/" "./" "v3/" ".idea/" "version3/" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ACT/TP2/" (21545 15134 256729 187000) "ex3.dat" "programme.c" "./" "ex7.dat" "Q1.c" "Makefile" "ex4.dat" "a.out" "ex6.dat" "ex2.dat" "../" "ex5.dat" "ex1.dat")
+
+ ("/home/mahieddine/Documents/cours/M1S1/" (21597 7041 861604 724000) "./" "GL/" "ACT/" "PJE/" "links.php" "ASE/" "../" "AEO/" "#links.php#")
+
+ ("/home/mahieddine/Documents/cours/" (21600 53319 324065 3000) "M1S1/" "./" "../")
+
+ ("/home/mahieddine/Documents/perso/KM59/version4/SlimKM/" (21608 42660 611836 404000) "index.php~" "./" "Slim/" "index.php" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/smews/apps/helloWorld2/" (21594 13055 480366 572000) "hello2.c~" "hello2.c" "./" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/" (21575 38804 980021 209000) "smews/" "rflpc.map" "live.c" "./" "live.bin" "live.o" "Makefile" "live.elf" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/smews/apps/" (21605 48404 719776 52000) "dhcpclient/" "udp/" "httpCodes/" "udp_test/" "girellande/" "calendar/" "./" "sensor/" "helloWorld2/" "arduino/" "icmpv4/" "ledmatrix/" "kernel_console/" "test/" "post_test/" "time/" "connectionsStats/" "bandwidth/" "welcome/" "icmpv6/" "../" "helloWorld/" "linux/" "gba/" "easy_dynamic/" "examples/" "contactsBook/")
+
+ ("/home/mahieddine/Documents/cours/M1S1/PJE/projetSmews/smews/apps/girellande/" (21605 48502 545912 749000) "girlande.c" "./" "girlande.c~" "../")
+
+ ("/home/mahieddine/.oh-my-zsh/lib/" (21597 7083 276198 573000) "aliases.zsh" "spectrum.zsh" "./" "misc.zsh" "history.zsh" "prompt_info_functions.zsh" "termsupport.zsh" "directories.zsh" "key-bindings.zsh" "correction.zsh" "grep.zsh" "../" "nvm.zsh" "git.zsh" "theme-and-appearance.zsh" "functions.zsh" "bzr.zsh" "completion.zsh")
+
+ ("/home/mahieddine/Documents/perso/hack/" (21546 42544 360519 493000) "./" "application/" "../" "programming/")
+
+ ("/home/mahieddine/Documents/perso/" (21578 44495 562634 629000) "./" "LINUX/" "KM59/" "hack/" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/truc/ASE/" (21592 32244 694021 892000) "tp2/" "tp9/" "tp4 - context final/" "./" "tp9 linux/" "tp8 - hardware final/" "tp3/" "td4/" "tp5/" ".git/" "tp1/" ".gitignore" "tp7/" "../" "td1/" "td2/" "td3/" "tp6/")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP5-2/tpfs/" (21592 41925 869432 825000) "mbr.c" "mkhd" "vdiskB.bin" "./" "lib/" "vm.c" "mkhd.c" "mbr.h" "drive" "mbr.o" "Makefile" ".git/" "vdiskA.bin" "etc/" "README" "include/" "../" "hardware.ini" "drive.c" "mkhd.o" "drive.o" "drive.h")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP5-2/" (21587 38901 184334 913000) "ancien/" "tpfs/" "./" "../" "drive.c")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/" (21592 36255 478960 271000) "TP8/" "TP7/" "./" "TP3/" "TP9/" "TP5-2/" "TP5-3/" "TP1/" "TP4/" "ase/" "truc/" "../" "TP2/" "TP6/" "TP5/")
+
+ ("/home/mahieddine/Documents/perso/LINUX/linux/mm/" (21578 45110 46692 180000) "./" "kmalloc.c" "swap.c" "Makefile" "mmap.c~" "vmalloc.c" "mmap.c" "../" "memory.c")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/truc/ASE/tp5/" (21592 3759 462982 735000) "ASE-TP5-Lepan-Van_Ryseghem.zip" "tpfs/" "./" "lib/" "fs.pdf" "tp5" "tp5.pdf" "tp5.tex" "dump.c" "tp5.c" "tp5.h" "etc/" "include/" "dump.h" "../" "tpfs.tgz" "makefile")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/truc/ASE/tp7/" (21592 3586 154670 608000) "tp7.h" "tpfs/" "tp7.c" "./" "lib/" "vm.c" "fs.pdf" "ASE-TP7-Lepan-Van_Ryseghem.zip" "dump.c" "dump.o" "etc/" "tp7.o" "include/" "dump.h" "../" "tpfs.tgz" "vm.o" "makefile")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ACT/TP3/v1/TP3/" (21592 2893 794603 661000) "palette" "index.html" "baboon_gray.png" "./" "fin-palettes.pgm" "sort.o" "Makefile" ".git/" "init-palettes.pgm" "palette.h" "sort.h" "machin" "palette.c" "../" "sort.c" "images-test.tar.gz" "#palette.c#" "baboon_gray.gray" "init-palettes.gray" "palette.o")
+
+ ("/home/mahieddine/.oh-my-zsh/" (21591 33530 986156 45000) "tools/" "log/" "./" "README.textile" "lib/" "plugins/" "templates/" ".git/" "MIT-LICENSE.txt" "custom/" ".gitignore" "cache/" "themes/" "../" "oh-my-zsh.sh")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ACT/TP3/" (21578 48201 183001 225000) "fin-palettes.gray" "palette" "index.html" "baboon_gray.png" "test.pgm" "./" "test.gray" "v1/" "fin-palettes.pgm" "fin-palettes2.gray" "Makefile" ".git/" "init-palettes.pgm" "palette.h" "baboon_gray2.gray" "palette.c" "../" "images-test.tar.gz" "baboon_gray.gray" "init-palettes.gray" "palette.o")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ACT/TP3/v1/" (21571 54548 272157 878000) "./" "TP3/" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/truc/ASE/tp4 - context final/" (21579 62696 534269 940000) "tp4.c" "./" "tp4.o" "hw.o" "hw.h" "tp4.h" "tp4" "../" "ASE-TP4-Lepan-Van_Ryseghem.zip" "hw.c" "makefile")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP4/" (21582 16779 768445 601000) "tp4.c" "TP4_Yaker_Mahieddine.tar.gz" "ancien/" "./" "hw.h" "tp4.h" "Makefile" "README" "../" "ASE-TP4-Lepan-Van_Ryseghem.zip" "hw.c")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP5/tpfs/" (21587 38621 501196 883000) "ancien/" "mkhd" "./" "lib/" "mkhd.c" "Makefile" "etc/" "include/" "../" "hardware.ini" "drive.c" "drive.h")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP5-2/tpfs/skel/" (18722 30037 0 0) "./" "vm-skel.c" "Makefile" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP3/" (21564 62171 29434 520000) "contexte.h" "contexte.o" "./" "contexte" "hw.o" "hw.h" "Makefile" "contexte.c" "../" "hw.c")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/truc/ASE/tp8 - hardware final/" (21573 17855 352382 123000) "tp8.h" "foo" "tpfs/" "if_dfile.c" "./" "lib/" "vm.c" "tools.h" "ifile.c" "if_nfile" "if_pfile" "fs.pdf" "mount.h" "tp8.c" "mount.c" "Makefile" "inode.h" "tp8_bis.c" "dump.c" "if_cfile.c" "if_pfile.c" "config.h" "if_nfile.c" "etc/" "if_dfile" "ifile.h" "include/" "dump.h" "../" "tpfs.tgz" "Makefile2" "if_cfile" "vm" "tools.c" "Readme")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP4/ancien/" (21582 15848 215461 255000) "contexte.h" "./" "hw.o" "sem.c" "tp4_Yaker-Mahieddine.tar.gz" "hw.h" "Makefile" "semaphore" "sem.o" "sem.h" "README" "contexte.c" "../" "hw.c")
+
+ ("/home/mahieddine/Documents/perso/LINUX/linux/include/asm/" (11470 32065 0 0) "io.h" "./" "system.h" "irq.h" "bitops.h" "dma.h" "segment.h" "../")
+
+ ("/home/mahieddine/Documents/perso/LINUX/linux/include/linux/" (11651 24039 0 0) "debugreg.h" "if_ether.h" "nfs.h" "ext_fs.h" "hdreg.h" "elf.h" "ddi.h" "socket.h" "resource.h" "ext_fs_sb.h" "sysv_fs_i.h" "stat.h" "soundcard.h" "ext2_fs_i.h" "wait.h" "termios.h" "dirent.h" "coff.h" "fd.h" "tpqic02.h" "genhd.h" "msdos_fs_i.h" "proc_fs.h" "if_arp.h" "string.h" "in.h" "math_emu.h" "sys.h" "major.h" "kernel.h" "route.h" "./" "cdrom.h" "page.h" "serial.h" "ctype.h" "mman.h" "sysv_fs.h" "param.h" "sched.h" "hpfs_fs.h" "if.h" "stddef.h" "malloc.h" "iso_fs_i.h" "hpfs_fs_sb.h" "delay.h" "errno.h" "ipc.h" "timer.h" "ext2_fs.h" "mcd.h" "types.h" "tty.h" "interrupt.h" "limits.h" "msdos_fs.h" "busmouse.h" "icmp.h" "ext_fs_i.h" "utsname.h" "vt.h" "ip.h" "nfs_mount.h" "ldt.h" "msdos_fs_sb.h" "msg.h" "hpfs_fs_i.h" "head.h" "signal.h" "xia_fs_sb.h" "mm.h" "keyboard.h" "sbpcd.h" "binfmts.h" "minix_fs_sb.h" "ptrace.h" "a.out.h" "in_systm.h" "fs.h" "ioctl.h" "ext2_fs_sb.h" "shm.h" "sockios.h" "tasks.h" "utime.h" "tcp.h" "segment.h" "net.h" "vm86.h" "config.h" "lp.h" "ultrasound.h" "time.h" "udp.h" "nfs_fs.h" "sem.h" "user.h" "nfs_fs_sb.h" "unistd.h" "iso_fs.h" "mc146818rtc.h" "fcntl.h" "fdreg.h" "xd.h" "../" "kd.h" "iso_fs_sb.h" "mktime.h" "vfs.h" "un.h" "nfs_fs_i.h" "timex.h" "sysv_fs_sb.h" "times.h" "locks.h" "xia_fs.h" "minix_fs_i.h" "mtio.h" "pipe_fs_i.h" "xia_fs_i.h" "module.h" "cdu31a.h" "kernel_stat.h" "mouse.h" "minix_fs.h" "ioport.h" "linkage.h")
+
+ ("/home/mahieddine/Documents/perso/LINUX/linux/include/" (11416 26444 0 0) "./" "../" "linux/" "asm/")
+
+ ("/home/mahieddine/Documents/perso/LINUX/linux/drivers/" (11519 15832 0 0) "sound/" "scsi/" "./" "FPU-emu/" "block/" "char/" "Makefile" "../" "net/")
+
+ ("/home/mahieddine/Documents/perso/LINUX/linux/boot/" (11651 24038 0 0) "head.S" "./" "bootsect.S" "setup.S" "../")
+
+ ("/home/mahieddine/Documents/perso/LINUX/linux/" (11651 35468 0 0) "COPYING" "ibcs/" "tools/" "ipc/" "CREDITS" "./" "lib/" "fs/" "zBoot/" "drivers/" "makever.sh" "CHANGES" "Makefile" "boot/" "Configure" "README" "include/" "../" "net/" "config.in" "mm/" "kernel/" "init/")
+
+ ("/home/mahieddine/Documents/perso/LINUX/linux/kernel/" (11651 24041 0 0) "dma.c" "time.c" "ptrace.c" "./" "ldt.c" "itimer.c" "sys.c" "Makefile" "sched.c" "signal.c" "exit.c" "vsprintf.c" "info.c" "fork.c" "mktime.c" "printk.c" "../" "sys_call.S" "module.c" "traps.c" "ksyms.sh" "ioport.c" "ksyms.S" "panic.c" "irq.c")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/TP5/" (21577 4274 357298 886000) "tpfs/" "./" "../" "drive.c")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/truc/" (21573 17840 582392 290000) "./" "ASE/" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/libs/ar/old/include/" (21574 847 734039 260000) "hardware.h" "./" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/libs/ar/old/" (21574 847 950709 965000) "./" "lib/" "etc/" "include/" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/libs/ar/" (21574 850 647426 899000) "r114/" "./" "r108/" "r104/" "../" "old/")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/libs/src/" (21574 853 197474 433000) "hw_tmr.tgz" "./" "vm-skel.tgz" "hw.tgz" "swap.c" "dump.c" "matmul.tgz" "mkvol.c" "../" "tpfs.tgz" "current.c" "ifile.tgz")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/libs/lib/" (21574 852 17452 437000) "./" "libhardware.a" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/libs/include/" (21574 851 670779 308000) "hardware.h" "./" "../")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ASE/libs/" (21574 889 98143 845000) "ar/" "./" "lib/" "etc/" "include/" "../" "src/" "Readme")
+
+ ("/home/mahieddine/Documents/cours/M1S1/ACT/" (21541 16769 881358 741000) "TP8/" "TP7/" "./" "TP3/" "TP9/" "TP1/" "TP4/" "../" "TP2/" "TP6/" "TP5/")
+
+ ("/home/mahieddine/.emacs.d/elpa/" (21573 24789 120496 40000) "google-maps-20130412.230/" "warm-night-theme-20141018.13/" "expand-region-20140610.1519/" "notify-2010.8.20/" "pkg-info-20140610.630/" "git-rebase-mode-20140928.1547/" "js2-refactor-20141002.905/" "subatomic-theme-20141019.1132/" "undo-tree-20140509.522/" "flycheck-20141020.724/" "alert-20140506.2032/" "paredit-20140128.1248/" "slime-20141010.1357/" "pcmpl-git-20140218.1804/" "telepathy-20131209.458/" "./" "ox-reveal-20141016.840/" "helm-20141019.2110/" "rainbow-mode-0.10/" "org-pomodoro-20140908.646/" "popup-20141002.320/" "async-20141001.151/" "ack-and-a-half-20130815.1917/" "drag-stuff-20140121.723/" "theme-changer-20130725.1919/" "auto-complete-20140824.1658/" "org-20141020/" "epresent-20140904.1953/" "gntp-20140330.131/" "epl-20140823.609/" "git-commit-mode-20141014.1634/" "ido-ubiquitous-20140904.1547/" "sr-speedbar-20141004.532/" "skewer-mode-20140702.647/" "less-css-mode-20140919.524/" "powerline-20140516.2128/" "solarized-theme-20141004.2115/" "projectile-20141018.1003/" "js2-mode-20141018.1205/" "js-comint-20080530.757/" "s-20140910.334/" "archives/" "twilight-anti-bright-theme-20140810.34/" "packed-20140913.1531/" "dash-20141008.712/" "yasnippet-20141017.736/" "pos-tip-20140613.224/" "nyan-mode-20140801.1329/" "markdown-mode-20140914.1012/" "simple-httpd-20140908.1908/" "auto-compile-20140913.1532/" "google-translate-20141006.1505/" "offlineimap-20130331.741/" "../" "ace-jump-mode-20140616.115/" "2048-game-20140910.2243/" "magit-20141016.1055/" "htmlize-20130207.1202/" "multiple-cursors-20141003.551/" "ac-js2-20140809.2217/" "tangotango-theme-20140727.838/" "zenburn-1.8/" "fic-mode-20140421.1622/" "browse-kill-ring-20141003.951/" "smex-20140425.1314/" "auctex-11.87.7/" "runner-20140106.758/" "magit-svn-20140807.909/" "shell-switcher-20140217.638/" "ido-vertical-mode-20140516.1920/")
+
+ ("/home/" (21540 36701 362998 210000) "lost+found/" "mahieddine/" "./" "../")
+
+ ("/home/mahieddine/Documents/" (21546 41423 439170 991000) "./" "perso/" "../" "cours/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
