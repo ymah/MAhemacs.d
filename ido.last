@@ -1,0 +1,31 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/mahieddine/public_html/" . "portofolio/")
+ ("/home/mahieddine/" . "public_html/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mahieddine/public_html/portofolio/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".htaccess"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mahieddine/" (22021 6390 849986 602000) ".zsh-update" ".zshrc" ".oh-my-zsh/" "mah2.ovpn" "public_html/" "../" ".zcompdump-vps117228-5.0.7" "openvpn-install/" ".bash_logout" ".mysql_history" "./" ".zsh_history" "arthur.ovpn" ".aptitude/" ".emacs.d/" ".bash_history" ".bashrc" ".profile" ".zshrc~")
+
+ ("/home/mahieddine/public_html/" (22016 15905 236419 827000) "../" "./" "portofolio/")
+
+ ("/home/mahieddine/public_html/portofolio/" (22017 47568 996914 137000) ".htaccess" "../" "wp-cron.php" "wp-config-sample.php" "wp-config.php" "./" "wp-mail.php" "logs/" "wp-signup.php" "wp-login.php" "wp-comments-post.php" "xmlrpc.php" "wp-admin/" "index.php" "wp-includes/" "wp-load.php" "readme.html" "wordpress/" "wp-trackback.php" "wp-activate.php" ".htaccess~" "license.txt" "wp-links-opml.php" "cgi-bins/" "wp-blog-header.php" "wp-settings.php" "wp-content/")
+
+ ("/home/mahieddine/public_html/portofolio/wp-admin/" (22011 21512 0 0) "link-manager.php" "ms-sites.php" "options-permalink.php" "update.php" "media.php" "post.php" "ms-options.php" "options-writing.php" "my-sites.php" "admin-header.php" "edit-link-form.php" "ms-upgrade-network.php" "themes.php" "plugin-install.php" "options-reading.php" "../" "edit-tags.php" "customize.php" "profile.php" "edit-tag-form.php" "link.php" "options-general.php" "admin-post.php" "./" "options.php" "comment.php" "admin.php" "theme-install.php" "widgets.php" "nav-menus.php" "edit.php" "user-new.php" "admin-footer.php" "revision.php" "includes/" "ms-delete-site.php" "upload.php" "moderation.php" "options-media.php" "menu.php" "setup-config.php" "export.php" "freedoms.php" "install-helper.php" "index.php" "user-edit.php" "admin-functions.php" "edit-form-comment.php" "install.php" "tools.php" "link-add.php" "edit-form-advanced.php" "upgrade-functions.php" "ms-users.php" "post-new.php" "link-parse-opml.php" "css/" "load-scripts.php" "user/" "media-upload.php" "credits.php" "ms-admin.php" "network/" "menu-header.php" "js/" "async-upload.php" "about.php" "images/" "options-head.php" "update-core.php" "network.php" "upgrade.php" "options-discussion.php" "plugins.php" "press-this.php" "load-styles.php" "import.php" "maint/" "edit-comments.php" "ms-edit.php" "theme-editor.php" "ms-themes.php" "custom-header.php" "media-new.php" "custom-background.php" "users.php" "admin-ajax.php" "plugin-editor.php")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
